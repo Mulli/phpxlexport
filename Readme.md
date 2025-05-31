@@ -1,4 +1,4 @@
-=== PhpSpreadsheet for WordPress ===
+=== PhpSpreadsheet/phpxlexport for WordPress ===
 Contributors: wordpressteam
 Donate link: https://example.com/donate
 Tags: excel, spreadsheet, export, phpoffice, reports, xlsx, csv, data-export
@@ -17,42 +17,40 @@ PhpSpreadsheet for WordPress is a comprehensive plugin that seamlessly integrate
 
 = Key Features =
 
-* **One-Click Installation** - Automatically downloads and configures PhpSpreadsheet
-* **Excel Generation** - Create professional Excel files with formatting, charts, and formulas
-* **Zero Code Changes** - Works with existing WordPress code that uses PhpSpreadsheet
-* **Admin Management** - Easy installation and status monitoring through WordPress admin
-* **Secure** - Follows WordPress security best practices
-* **Compatible** - Works with themes, plugins, and custom code
-* **RTL Support** - Full support for right-to-left languages like Hebrew and Arabic
+- **One-Click Installation** - Automatically downloads and configures PhpSpreadsheet
+- **Excel Generation** - Create professional Excel files with formatting, charts, and formulas
+- **Zero Code Changes** - Works with existing WordPress code that uses PhpSpreadsheet
+- **Admin Management** - Easy installation and status monitoring through WordPress admin
+- **Secure** - Follows WordPress security best practices
+- **Compatible** - Works with themes, plugins, and custom code
+- **RTL Support** - Full support for right-to-left languages like Hebrew and Arabic
 
 = Perfect For =
 
-* Educational Institutions - Generate student reports and academic data exports
-* Business Applications - Create financial reports, inventory exports, and data analysis
-* E-commerce Sites - Export order data, product catalogs, and customer information
-* Government Agencies - Generate compliance reports and administrative documents
-* Non-profits - Create donor reports, volunteer schedules, and program statistics
+- Educational Institutions - Generate student reports and academic data exports
+- Business Applications - Create financial reports, inventory exports, and data analysis
+- E-commerce Sites - Export order data, product catalogs, and customer information
+- Government Agencies - Generate compliance reports and administrative documents
+- Non-profits - Create donor reports, volunteer schedules, and program statistics
 
 = Developer-Friendly =
 
 This plugin is designed to work seamlessly with existing code. If you already have WordPress code that uses PhpSpreadsheet, this plugin will make it work without any modifications.
 
-`
-// Your existing code continues to work
+`// Your existing code continues to work
 if (class_exists('PhpOffice\PhpSpreadsheet\Spreadsheet')) {
     $spreadsheet = new \PhpOffice\PhpSpreadsheet\Spreadsheet();
     // Your Excel generation code here
-}
-`
+}`
 
 = Technical Features =
 
-* Multiple Installation Methods - Supports Composer and precompiled installation
-* Smart Autoloading - Automatically detects and loads the library
-* Error Handling - Comprehensive logging and fallback mechanisms
-* WordPress Integration - Uses WordPress HTTP API and Filesystem API
-* Memory Efficient - Optimized for large dataset processing
-* Hook System - Provides actions and filters for developers
+- Multiple Installation Methods - Supports Composer and precompiled installation
+- Smart Autoloading - Automatically detects and loads the library
+- Error Handling - Comprehensive logging and fallback mechanisms
+- WordPress Integration - Uses WordPress HTTP API and Filesystem API
+- Memory Efficient - Optimized for large dataset processing
+- Hook System - Provides actions and filters for developers
 
 == Installation ==
 
@@ -74,10 +72,10 @@ if (class_exists('PhpOffice\PhpSpreadsheet\Spreadsheet')) {
 
 = Requirements =
 
-* WordPress 5.0 or higher
-* PHP 7.4 or higher
-* At least 128MB PHP memory limit (256MB recommended)
-* WordPress write permissions for plugin directory
+- WordPress 5.0 or higher
+- PHP 7.4 or higher
+- At least 128MB PHP memory limit (256MB recommended)
+- WordPress write permissions for plugin directory
 
 == Frequently Asked Questions ==
 
@@ -96,6 +94,7 @@ Absolutely! This plugin provides PhpSpreadsheet functionality to any WordPress t
 = What happens if the automatic installation fails? =
 
 If automatic installation fails, you can:
+
 1. Try the manual installation button in **Settings > PhpSpreadsheet**
 2. Check the plugin logs for error details
 3. Install PhpSpreadsheet manually via Composer
@@ -116,14 +115,15 @@ Yes! The plugin fully supports RTL (right-to-left) languages and UTF-8 encoding 
 = What Excel features are supported? =
 
 PhpSpreadsheet supports extensive Excel features including:
-* Multiple worksheets
-* Cell formatting and styling
-* Formulas and calculations
-* Charts and graphs
-* Images and shapes
-* Data validation
-* Conditional formatting
-* And much more
+
+- Multiple worksheets
+- Cell formatting and styling
+- Formulas and calculations
+- Charts and graphs
+- Images and shapes
+- Data validation
+- Conditional formatting
+- And much more
 
 == Screenshots ==
 
@@ -136,27 +136,30 @@ PhpSpreadsheet supports extensive Excel features including:
 == Changelog ==
 
 = 1.2.0 (2025-05-28) =
-* Added: Improved autoloader with better PHP compatibility
-* Added: Enhanced error handling and logging
-* Added: Support for multiple installation methods
-* Fixed: Autoloader syntax errors on some PHP versions
-* Fixed: Admin page void assignment issues
-* Improved: WordPress Filesystem API integration
-* Improved: Better Composer executable detection
+
+- Added: Improved autoloader with better PHP compatibility
+- Added: Enhanced error handling and logging
+- Added: Support for multiple installation methods
+- Fixed: Autoloader syntax errors on some PHP versions
+- Fixed: Admin page void assignment issues
+- Improved: WordPress Filesystem API integration
+- Improved: Better Composer executable detection
 
 = 1.1.0 (2025-05-15) =
-* Added: WordPress admin interface
-* Added: One-click installation functionality
-* Added: Helper functions for developers
-* Added: Hook system for extensibility
-* Improved: Error handling and user feedback
-* Improved: Security with nonce verification
+
+- Added: WordPress admin interface
+- Added: One-click installation functionality
+- Added: Helper functions for developers
+- Added: Hook system for extensibility
+- Improved: Error handling and user feedback
+- Improved: Security with nonce verification
 
 = 1.0.0 (2025-05-01) =
-* Initial Release
-* Added: Basic PhpSpreadsheet integration
-* Added: Automatic library detection
-* Added: WordPress compatibility layer
+
+- Initial Release
+- Added: Basic PhpSpreadsheet integration
+- Added: Automatic library detection
+- Added: WordPress compatibility layer
 
 == Upgrade Notice ==
 
@@ -175,17 +178,18 @@ Once installed, PhpSpreadsheet is available throughout your WordPress installati
 `
 // Check if PhpSpreadsheet is available
 if (class_exists('PhpOffice\PhpSpreadsheet\Spreadsheet')) {
-    // Create new spreadsheet
-    $spreadsheet = new \PhpOffice\PhpSpreadsheet\Spreadsheet();
-    $sheet = $spreadsheet->getActiveSheet();
-    
+// Create new spreadsheet
+$spreadsheet = new \PhpOffice\PhpSpreadsheet\Spreadsheet();
+$sheet = $spreadsheet->getActiveSheet();
+
     // Add data
     $sheet->setCellValue('A1', 'Hello World');
     $sheet->setCellValue('B1', 'WordPress');
-    
+
     // Save as Excel file
     $writer = new \PhpOffice\PhpSpreadsheet\Writer\Xlsx($spreadsheet);
     $writer->save('/path/to/file.xlsx');
+
 }
 `
 
@@ -196,7 +200,7 @@ The plugin provides convenient helper functions:
 `
 // Check if library is loaded
 if (phpspreadsheet_wp_is_loaded()) {
-    // Safe to use PhpSpreadsheet
+// Safe to use PhpSpreadsheet
 }
 
 // Get library version
@@ -215,7 +219,7 @@ The plugin provides hooks for advanced customization:
 add_action('phpspreadsheet_wp_loaded', 'my_custom_function');
 
 function my_custom_function() {
-    // PhpSpreadsheet is now available
+// PhpSpreadsheet is now available
 }
 `
 
@@ -223,9 +227,9 @@ function my_custom_function() {
 
 For support, please visit:
 
-* [Plugin Documentation](https://example.com/docs)
-* [WordPress Support Forums](https://wordpress.org/support/plugin/phpspreadsheet-wp/)
-* [GitHub Repository](https://github.com/example/phpspreadsheet-wp)
+- [Plugin Documentation](https://example.com/docs)
+- [WordPress Support Forums](https://wordpress.org/support/plugin/phpspreadsheet-wp/)
+- [GitHub Repository](https://github.com/example/phpspreadsheet-wp)
 
 == License ==
 
