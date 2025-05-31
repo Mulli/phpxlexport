@@ -1,0 +1,1057 @@
+# File: languages/phpspreadsheet-wp-he_IL.po
+# Hebrew translation for PhpSpreadsheet for WordPress
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PhpSpreadsheet for WordPress 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/phpspreadsheet-wp\n"
+"POT-Creation-Date: 2025-05-28 12:00+0000\n"
+"PO-Revision-Date: 2025-05-28 12:30+0000\n"
+"Last-Translator: WordPress Team <team@example.com>\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WordPress\n"
+
+msgid "PhpSpreadsheet for WordPress requires PHP 7.4 or higher."
+msgstr "PhpSpreadsheet עבור WordPress דורש PHP 7.4 או גרסה חדשה יותר."
+
+msgid "PhpSpreadsheet Settings"
+msgstr "הגדרות PhpSpreadsheet"
+
+msgid "PhpSpreadsheet"
+msgstr "PhpSpreadsheet"
+
+msgid "PhpSpreadsheet Configuration"
+msgstr "תצורת PhpSpreadsheet"
+
+msgid "Auto-load Library"
+msgstr "טעינה אוטומטית של הספרייה"
+
+msgid "Installation Method"
+msgstr "שיטת התקנה"
+
+msgid "Configure PhpSpreadsheet library settings for WordPress."
+msgstr "הגדר את הגדרות ספריית PhpSpreadsheet עבור WordPress."
+
+msgid "Load PhpSpreadsheet automatically"
+msgstr "טען את PhpSpreadsheet אוטומטית"
+
+msgid "When enabled, PhpSpreadsheet will be loaded on every WordPress page load."
+msgstr "כאשר מופעל, PhpSpreadsheet ייטען בכל טעינת עמוד של WordPress."
+
+msgid "Automatic (Try Composer, then Precompiled)"
+msgstr "אוטומטי (נסה Composer, לאחר מכן מקומפל מראש)"
+
+msgid "Composer Only"
+msgstr "Composer בלבד"
+
+msgid "Precompiled Only"
+msgstr "מקומפל מראש בלבד"
+
+msgid "Precompiled Download Only"
+msgstr "הורדה מקומפלת מראש בלבד"
+
+msgid "Choose how PhpSpreadsheet should be installed."
+msgstr "בחר כיצד להתקין את PhpSpreadsheet."
+
+msgid "Choose how PhpSpreadsheet should be installed. Automatic is recommended for most users."
+msgstr "בחר כיצד להתקין את PhpSpreadsheet. אוטומטי מומלץ לרוב המשתמשים."
+
+msgid "PhpSpreadsheet for WordPress activated successfully!"
+msgstr "PhpSpreadsheet עבור WordPress הופעל בהצלחה!"
+
+msgid "PhpSpreadsheet for WordPress activated but library installation failed. Please check settings."
+msgstr "PhpSpreadsheet עבור WordPress הופעל אך התקנת הספרייה נכשלה. אנא בדוק את ההגדרות."
+
+msgid "PhpSpreadsheet library is not installed."
+msgstr "ספריית PhpSpreadsheet אינה מותקנת."
+
+msgid "Install now"
+msgstr "התקן עכשיו"
+
+#, php-format
+msgid "PhpSpreadsheet for WordPress requires PHP %s or higher. You are running PHP %s."
+msgstr "PhpSpreadsheet עבור WordPress דורש PHP %s או גרסה חדשה יותר. אתה מריץ PHP %s."
+
+msgid "Plugin Activation Error"
+msgstr "שגיאת הפעלת תוסף"
+
+#, php-format
+msgid "PhpSpreadsheet for WordPress requires the following PHP functions: %s"
+msgstr "PhpSpreadsheet עבור WordPress דורש את פונקציות PHP הבאות: %s"
+
+msgid "Security check failed"
+msgstr "בדיקת אבטחה נכשלה"
+
+msgid "Insufficient permissions"
+msgstr "אין הרשאות מספקות"
+
+msgid "Installation completed successfully"
+msgstr "ההתקנה הושלמה בהצלחה"
+
+msgid "Installation completed but library failed to load"
+msgstr "ההתקנה הושלמה אך הספרייה נכשלה להיטען"
+
+msgid "Installation failed. Please check logs for details."
+msgstr "ההתקנה נכשלה. אנא בדוק את היומנים לפרטים."
+
+msgid "Status check failed"
+msgstr "בדיקת סטטוס נכשלה"
+
+msgid "Logs cleared successfully"
+msgstr "היומנים נוקו בהצלחה"
+
+msgid "Integrate PhpSpreadsheet library into WordPress for Excel file generation with seamless compatibility."
+msgstr "שלב ספריית PhpSpreadsheet ב-WordPress ליצירת קבצי Excel עם תאימות חלקה."
+
+msgid "Library Status"
+msgstr "סטטוס הספרייה"
+
+msgid "PhpSpreadsheet is loaded and ready"
+msgstr "PhpSpreadsheet נטען ומוכן לשימוש"
+
+#, php-format
+msgid "Version: %s"
+msgstr "גרסה: %s"
+
+msgid "PhpSpreadsheet is not loaded"
+msgstr "PhpSpreadsheet לא נטען"
+
+msgid "Library needs to be installed"
+msgstr "יש להתקין את הספרייה"
+
+msgid "Install PhpSpreadsheet"
+msgstr "התקן PhpSpreadsheet"
+
+msgid "Check Status"
+msgstr "בדוק סטטוס"
+
+msgid "View Logs"
+msgstr "הצג יומנים"
+
+msgid "Installation Details"
+msgstr "פרטי התקנה"
+
+msgid "Vendor Directory"
+msgstr "תיקיית Vendor"
+
+msgid "Exists"
+msgstr "קיים"
+
+msgid "Missing"
+msgstr "חסר"
+
+msgid "Autoloader"
+msgstr "טעינה אוטומטית"
+
+msgid "Available"
+msgstr "זמין"
+
+msgid "PhpSpreadsheet Library"
+msgstr "ספריית PhpSpreadsheet"
+
+msgid "Installed"
+msgstr "מותקן"
+
+msgid "Not Installed"
+msgstr "לא מותקן"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Load PhpSpreadsheet automatically on every page"
+msgstr "טען PhpSpreadsheet אוטומטית בכל עמוד"
+
+msgid "When enabled, PhpSpreadsheet will be loaded on every WordPress page load. Disable if you only need it for specific functionality."
+msgstr "כאשר מופעל, PhpSpreadsheet ייטען בכל טעינת עמוד WordPress. בטל אם אתה צריך את זה רק לפונקציונליות ספציפית."
+
+msgid "Usage Information"
+msgstr "מידע על שימוש"
+
+msgid "For Developers"
+msgstr "למפתחים"
+
+msgid "Once installed, PhpSpreadsheet is automatically available throughout your WordPress installation:"
+msgstr "לאחר ההתקנה, PhpSpreadsheet זמין אוטומטית בכל התקנת WordPress שלך:"
+
+msgid "Copy Code"
+msgstr "העתק קוד"
+
+msgid "Helper Functions"
+msgstr "פונקציות עזר"
+
+msgid "The plugin provides convenient helper functions:"
+msgstr "התוסף מספק פונקציות עזר נוחות:"
+
+msgid "Check if library is loaded"
+msgstr "בדוק אם הספרייה נטענה"
+
+msgid "Get library version"
+msgstr "קבל גרסת הספרייה"
+
+msgid "Force load library"
+msgstr "אלץ טעינת הספרייה"
+
+msgid "Installation Paths"
+msgstr "נתיבי התקנה"
+
+msgid "The plugin checks these paths for PhpSpreadsheet:"
+msgstr "התוסף בודק את הנתיבים הללו עבור PhpSpreadsheet:"
+
+msgid "Found"
+msgstr "נמצא"
+
+msgid "Not found"
+msgstr "לא נמצא"
+
+msgid "System Information"
+msgstr "מידע מערכת"
+
+msgid "Plugin Version"
+msgstr "גרסת התוסף"
+
+msgid "WordPress Version"
+msgstr "גרסת WordPress"
+
+msgid "PHP Version"
+msgstr "גרסת PHP"
+
+msgid "Memory Limit"
+msgstr "מגבלת זיכרון"
+
+msgid "Max Execution Time"
+msgstr "זמן ביצוע מקסימלי"
+
+msgid "seconds"
+msgstr "שניות"
+
+msgid "Composer Available"
+msgstr "Composer זמין"
+
+msgid "Yes"
+msgstr "כן"
+
+msgid "No"
+msgstr "לא"
+
+msgid "ZIP Extension"
+msgstr "הרחבת ZIP"
+
+msgid "cURL Extension"
+msgstr "הרחבת cURL"
+
+msgid "Loaded"
+msgstr "נטען"
+
+msgid "Not Loaded"
+msgstr "לא נטען"
+
+msgid "Installation Logs"
+msgstr "יומני התקנה"
+
+msgid "Loading logs..."
+msgstr "טוען יומנים..."
+
+msgid "Refresh"
+msgstr "רענן"
+
+msgid "Clear Logs"
+msgstr "נקה יומנים"
+
+msgid "Installing..."
+msgstr "מתקין..."
+
+msgid "Installing PhpSpreadsheet library..."
+msgstr "מתקין ספריית PhpSpreadsheet..."
+
+msgid "Retry Installation"
+msgstr "נסה התקנה שוב"
+
+msgid "Installation failed due to network error"
+msgstr "ההתקנה נכשלה עקב שגיאת רשת"
+
+msgid "Checking..."
+msgstr "בודק..."
+
+msgid "Status check failed due to network error"
+msgstr "בדיקת הסטטוס נכשלה עקב שגיאת רשת"
+
+msgid "Are you sure you want to clear all logs?"
+msgstr "האם אתה בטוח שברצונך לנקות את כל היומנים?"
+
+msgid "Logs cleared successfully."
+msgstr "היומנים נוקו בהצלחה."
+
+msgid "No logs available."
+msgstr "אין יומנים זמינים."
+
+msgid "Failed to load logs."
+msgstr "נכשל בטעינת היומנים."
+
+msgid "Failed to load logs due to network error."
+msgstr "נכשל בטעינת היומנים עקב שגיאת רשת."
+
+msgid "Code copied to clipboard!"
+msgstr "הקוד הועתק ללוח!"
+
+# JavaScript strings for admin interface
+msgid "loaded"
+msgstr "נטען"
+
+msgid "not_loaded"
+msgstr "לא נטען"
+
+msgid "warning"
+msgstr "אזהרה"
+
+msgid "installing_message"
+msgstr "מתקין ספריית PhpSpreadsheet..."
+
+msgid "network_error"
+msgstr "שגיאת רשת"
+
+msgid "timeout_error"
+msgstr "פג זמן ההתקנה. אנא נסה שוב."
+
+msgid "status_check_failed"
+msgstr "בדיקת סטטוס נכשלה"
+
+msgid "confirm_clear_logs"
+msgstr "האם אתה בטוח שברצונך לנקות את כל היומנים?"
+
+msgid "logs_cleared"
+msgstr "היומנים נוקו בהצלחה"
+
+msgid "loading_logs"
+msgstr "טוען יומנים..."
+
+msgid "no_logs"
+msgstr "אין יומנים זמינים"
+
+msgid "load_logs_failed"
+msgstr "נכשל בטעינת היומנים"
+
+msgid "copy_failed"
+msgstr "נכשל בהעתקת הקוד"
+
+msgid "copied"
+msgstr "הועתק!"
+
+msgid "retry"
+msgstr "נסה שוב"
+
+msgid "check_status"
+msgstr "בדוק סטטוס"
+
+---
+
+# File: languages/phpspreadsheet-wp-ar.po
+# Arabic translation for PhpSpreadsheet for WordPress
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PhpSpreadsheet for WordPress 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/phpspreadsheet-wp\n"
+"POT-Creation-Date: 2025-05-28 12:00+0000\n"
+"PO-Revision-Date: 2025-05-28 12:30+0000\n"
+"Last-Translator: WordPress Team <team@example.com>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: WordPress\n"
+
+msgid "PhpSpreadsheet for WordPress requires PHP 7.4 or higher."
+msgstr "PhpSpreadsheet لـ WordPress يتطلب PHP 7.4 أو أحدث."
+
+msgid "PhpSpreadsheet Settings"
+msgstr "إعدادات PhpSpreadsheet"
+
+msgid "PhpSpreadsheet"
+msgstr "PhpSpreadsheet"
+
+msgid "PhpSpreadsheet Configuration"
+msgstr "تكوين PhpSpreadsheet"
+
+msgid "Auto-load Library"
+msgstr "تحميل المكتبة تلقائياً"
+
+msgid "Installation Method"
+msgstr "طريقة التثبيت"
+
+msgid "Configure PhpSpreadsheet library settings for WordPress."
+msgstr "تكوين إعدادات مكتبة PhpSpreadsheet لـ WordPress."
+
+msgid "Load PhpSpreadsheet automatically"
+msgstr "تحميل PhpSpreadsheet تلقائياً"
+
+msgid "When enabled, PhpSpreadsheet will be loaded on every WordPress page load."
+msgstr "عند التفعيل، سيتم تحميل PhpSpreadsheet في كل تحميل صفحة WordPress."
+
+msgid "Automatic (Try Composer, then Precompiled)"
+msgstr "تلقائي (جرب Composer، ثم المجمع مسبقاً)"
+
+msgid "Composer Only"
+msgstr "Composer فقط"
+
+msgid "Precompiled Only"
+msgstr "المجمع مسبقاً فقط"
+
+msgid "Precompiled Download Only"
+msgstr "تحميل مجمع مسبقاً فقط"
+
+msgid "Choose how PhpSpreadsheet should be installed."
+msgstr "اختر كيفية تثبيت PhpSpreadsheet."
+
+msgid "Choose how PhpSpreadsheet should be installed. Automatic is recommended for most users."
+msgstr "اختر كيفية تثبيت PhpSpreadsheet. التلقائي موصى به لمعظم المستخدمين."
+
+msgid "PhpSpreadsheet for WordPress activated successfully!"
+msgstr "تم تفعيل PhpSpreadsheet لـ WordPress بنجاح!"
+
+msgid "PhpSpreadsheet for WordPress activated but library installation failed. Please check settings."
+msgstr "تم تفعيل PhpSpreadsheet لـ WordPress لكن فشل تثبيت المكتبة. يرجى فحص الإعدادات."
+
+msgid "PhpSpreadsheet library is not installed."
+msgstr "مكتبة PhpSpreadsheet غير مثبتة."
+
+msgid "Install now"
+msgstr "ثبت الآن"
+
+#, php-format
+msgid "PhpSpreadsheet for WordPress requires PHP %s or higher. You are running PHP %s."
+msgstr "PhpSpreadsheet لـ WordPress يتطلب PHP %s أو أحدث. أنت تستخدم PHP %s."
+
+msgid "Plugin Activation Error"
+msgstr "خطأ في تفعيل الإضافة"
+
+#, php-format
+msgid "PhpSpreadsheet for WordPress requires the following PHP functions: %s"
+msgstr "PhpSpreadsheet لـ WordPress يتطلب دوال PHP التالية: %s"
+
+msgid "Security check failed"
+msgstr "فشل في فحص الأمان"
+
+msgid "Insufficient permissions"
+msgstr "صلاحيات غير كافية"
+
+msgid "Installation completed successfully"
+msgstr "تم إكمال التثبيت بنجاح"
+
+msgid "Installation completed but library failed to load"
+msgstr "تم إكمال التثبيت لكن فشل تحميل المكتبة"
+
+msgid "Installation failed. Please check logs for details."
+msgstr "فشل التثبيت. يرجى فحص السجلات للتفاصيل."
+
+msgid "Status check failed"
+msgstr "فشل فحص الحالة"
+
+msgid "Logs cleared successfully"
+msgstr "تم مسح السجلات بنجاح"
+
+msgid "Integrate PhpSpreadsheet library into WordPress for Excel file generation with seamless compatibility."
+msgstr "دمج مكتبة PhpSpreadsheet في WordPress لإنشاء ملفات Excel مع توافق سلس."
+
+msgid "Library Status"
+msgstr "حالة المكتبة"
+
+msgid "PhpSpreadsheet is loaded and ready"
+msgstr "PhpSpreadsheet محمل وجاهز"
+
+#, php-format
+msgid "Version: %s"
+msgstr "الإصدار: %s"
+
+msgid "PhpSpreadsheet is not loaded"
+msgstr "PhpSpreadsheet غير محمل"
+
+msgid "Library needs to be installed"
+msgstr "المكتبة تحتاج للتثبيت"
+
+msgid "Install PhpSpreadsheet"
+msgstr "ثبت PhpSpreadsheet"
+
+msgid "Check Status"
+msgstr "فحص الحالة"
+
+msgid "View Logs"
+msgstr "عرض السجلات"
+
+msgid "Installation Details"
+msgstr "تفاصيل التثبيت"
+
+msgid "Vendor Directory"
+msgstr "مجلد Vendor"
+
+msgid "Exists"
+msgstr "موجود"
+
+msgid "Missing"
+msgstr "مفقود"
+
+msgid "Autoloader"
+msgstr "المحمل التلقائي"
+
+msgid "Available"
+msgstr "متوفر"
+
+msgid "PhpSpreadsheet Library"
+msgstr "مكتبة PhpSpreadsheet"
+
+msgid "Installed"
+msgstr "مثبت"
+
+msgid "Not Installed"
+msgstr "غير مثبت"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "Load PhpSpreadsheet automatically on every page"
+msgstr "تحميل PhpSpreadsheet تلقائياً في كل صفحة"
+
+msgid "When enabled, PhpSpreadsheet will be loaded on every WordPress page load. Disable if you only need it for specific functionality."
+msgstr "عند التفعيل، سيتم تحميل PhpSpreadsheet في كل تحميل صفحة WordPress. قم بالإلغاء إذا كنت تحتاجه فقط لوظائف محددة."
+
+msgid "Usage Information"
+msgstr "معلومات الاستخدام"
+
+msgid "For Developers"
+msgstr "للمطورين"
+
+msgid "Once installed, PhpSpreadsheet is automatically available throughout your WordPress installation:"
+msgstr "بمجرد التثبيت، يصبح PhpSpreadsheet متاحاً تلقائياً في جميع أنحاء تثبيت WordPress الخاص بك:"
+
+msgid "Copy Code"
+msgstr "نسخ الكود"
+
+msgid "Helper Functions"
+msgstr "دوال المساعدة"
+
+msgid "The plugin provides convenient helper functions:"
+msgstr "تقدم الإضافة دوال مساعدة مريحة:"
+
+msgid "Check if library is loaded"
+msgstr "فحص ما إذا كانت المكتبة محملة"
+
+msgid "Get library version"
+msgstr "الحصول على إصدار المكتبة"
+
+msgid "Force load library"
+msgstr "إجبار تحميل المكتبة"
+
+msgid "Installation Paths"
+msgstr "مسارات التثبيت"
+
+msgid "The plugin checks these paths for PhpSpreadsheet:"
+msgstr "تفحص الإضافة هذه المسارات لـ PhpSpreadsheet:"
+
+msgid "Found"
+msgstr "موجود"
+
+msgid "Not found"
+msgstr "غير موجود"
+
+msgid "System Information"
+msgstr "معلومات النظام"
+
+msgid "Plugin Version"
+msgstr "إصدار الإضافة"
+
+msgid "WordPress Version"
+msgstr "إصدار WordPress"
+
+msgid "PHP Version"
+msgstr "إصدار PHP"
+
+msgid "Memory Limit"
+msgstr "حد الذاكرة"
+
+msgid "Max Execution Time"
+msgstr "الحد الأقصى لوقت التنفيذ"
+
+msgid "seconds"
+msgstr "ثانية"
+
+msgid "Composer Available"
+msgstr "Composer متوفر"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "No"
+msgstr "لا"
+
+msgid "ZIP Extension"
+msgstr "امتداد ZIP"
+
+msgid "cURL Extension"
+msgstr "امتداد cURL"
+
+msgid "Loaded"
+msgstr "محمل"
+
+msgid "Not Loaded"
+msgstr "غير محمل"
+
+msgid "Installation Logs"
+msgstr "سجلات التثبيت"
+
+msgid "Loading logs..."
+msgstr "تحميل السجلات..."
+
+msgid "Refresh"
+msgstr "تحديث"
+
+msgid "Clear Logs"
+msgstr "مسح السجلات"
+
+msgid "Installing..."
+msgstr "جاري التثبيت..."
+
+msgid "Installing PhpSpreadsheet library..."
+msgstr "جاري تثبيت مكتبة PhpSpreadsheet..."
+
+msgid "Retry Installation"
+msgstr "إعادة المحاولة"
+
+msgid "Installation failed due to network error"
+msgstr "فشل التثبيت بسبب خطأ في الشبكة"
+
+msgid "Checking..."
+msgstr "جاري الفحص..."
+
+msgid "Status check failed due to network error"
+msgstr "فشل فحص الحالة بسبب خطأ في الشبكة"
+
+msgid "Are you sure you want to clear all logs?"
+msgstr "هل أنت متأكد من أنك تريد مسح جميع السجلات؟"
+
+msgid "Logs cleared successfully."
+msgstr "تم مسح السجلات بنجاح."
+
+msgid "No logs available."
+msgstr "لا توجد سجلات متاحة."
+
+msgid "Failed to load logs."
+msgstr "فشل في تحميل السجلات."
+
+msgid "Failed to load logs due to network error."
+msgstr "فشل في تحميل السجلات بسبب خطأ في الشبكة."
+
+msgid "Code copied to clipboard!"
+msgstr "تم نسخ الكود إلى الحافظة!"
+
+# JavaScript strings for admin interface (partial translation)
+msgid "loaded"
+msgstr "محمل"
+
+msgid "not_loaded"
+msgstr "غير محمل"
+
+msgid "warning"
+msgstr "تحذير"
+
+msgid "network_error"
+msgstr "خطأ في الشبكة"
+
+msgid "timeout_error"
+msgstr "انتهت مهلة التثبيت. يرجى المحاولة مرة أخرى."
+
+msgid "copied"
+msgstr "تم النسخ!"
+
+msgid "retry"
+msgstr "إعادة المحاولة"
+
+msgid "check_status"
+msgstr "فحص الحالة"
+
+# Untranslated strings (need translation)
+# msgid "installing_message"
+# msgid "status_check_failed"
+# msgid "confirm_clear_logs"
+# msgid "logs_cleared"
+# msgid "loading_logs"
+# msgid "no_logs"
+# msgid "load_logs_failed"
+# msgid "copy_failed"
+
+---
+
+# File: languages/README.md
+# Translation Guide for PhpSpreadsheet for WordPress
+
+## Available Languages
+
+- **English (en_US)** - Default language
+- **Hebrew (he_IL)** - Full translation available
+- **Arabic (ar)** - Partial translation available
+
+## Adding New Translations
+
+### Step 1: Generate POT File
+Use WordPress tools to generate the latest POT file:
+
+```bash
+wp i18n make-pot . languages/phpspreadsheet-wp.pot
+```
+
+### Step 2: Create PO File
+Copy the POT file and rename for your language:
+
+```bash
+cp languages/phpspreadsheet-wp.pot languages/phpspreadsheet-wp-[locale].po
+```
+
+### Step 3: Translate Strings
+Edit the PO file and translate all msgid strings:
+
+```po
+msgid "PhpSpreadsheet Settings"
+msgstr "Your Translation Here"
+```
+
+### Step 4: Generate MO File
+Compile the PO file to MO format:
+
+```bash
+msgfmt languages/phpspreadsheet-wp-[locale].po -o languages/phpspreadsheet-wp-[locale].mo
+```
+
+## Translation Priority
+
+### High Priority Strings
+- Plugin settings and configuration
+- Error messages and notifications
+- Admin interface labels
+- Installation messages
+
+### Medium Priority Strings
+- Helper text and descriptions
+- Status messages
+- Log messages
+
+### Low Priority Strings
+- Developer documentation
+- Code examples
+- Technical terms
+
+## Translation Guidelines
+
+### Style Guide
+1. **Consistency** - Use consistent terminology throughout
+2. **Context** - Consider the context where text appears
+3. **Length** - Keep translations similar in length to originals
+4. **Technical Terms** - Preserve technical terms when appropriate
+
+### WordPress Standards
+- Follow WordPress translation standards
+- Use WordPress glossary for common terms
+- Test translations in WordPress admin interface
+
+### RTL Languages
+For right-to-left languages (Arabic, Hebrew):
+- Ensure proper text direction in CSS
+- Test admin interface layout
+- Verify modal and popup alignment
+
+## Testing Translations
+
+### Local Testing
+1. Install language files in `languages/` directory
+2. Set WordPress language in wp-config.php:
+   ```php
+   define('WPLANG', 'he_IL');
+   ```
+3. Clear cache and test admin interface
+
+### Translation Tools
+- **Poedit** - Desktop translation editor
+- **GlotPress** - WordPress.org translation platform
+- **Loco Translate** - WordPress plugin for translations
+
+## Contributing Translations
+
+### WordPress.org
+- Submit translations via GlotPress
+- Follow WordPress translation guidelines
+- Coordinate with language teams
+
+### GitHub
+- Submit pull requests with new PO/MO files
+- Include translation credits
+- Test translations before submission
+
+## File Structure
+
+```
+languages/
+├── phpspreadsheet-wp.pot          # Template file
+├── phpspreadsheet-wp-he_IL.po     # Hebrew translation
+├── phpspreadsheet-wp-he_IL.mo     # Hebrew compiled
+├── phpspreadsheet-wp-ar.po        # Arabic translation
+├── phpspreadsheet-wp-ar.mo        # Arabic compiled
+└── README.md                      # This file
+```
+
+## Translation Status
+
+| Language | Code | Status | Translator | Last Updated |
+|----------|------|--------|------------|--------------|
+| English | en_US | Complete | Core Team | 2025-05-28 |
+| Hebrew | he_IL | Complete | Volunteer | 2025-05-28 |
+| Arabic | ar | Partial | Volunteer | 2025-05-28 |
+| Spanish | es_ES | Needed | - | - |
+| French | fr_FR | Needed | - | - |
+| German | de_DE | Needed | - | - |
+| Russian | ru_RU | Needed | - | - |
+| Chinese | zh_CN | Needed | - | - |
+
+## Incomplete Translations
+
+### Arabic (ar) - Missing Strings
+The following strings still need Arabic translation:
+- installing_message
+- status_check_failed  
+- confirm_clear_logs
+- logs_cleared
+- loading_logs
+- no_logs
+- load_logs_failed
+- copy_failed
+
+### Volunteer Opportunities
+We welcome volunteer translators for:
+- Completing Arabic translation
+- Adding new languages (Spanish, French, German, etc.)
+- Reviewing existing translations
+
+## Technical Notes
+
+### Generating MO Files
+After translating PO files, compile them to MO format:
+
+```bash
+# For Hebrew
+msgfmt languages/phpspreadsheet-wp-he_IL.po -o languages/phpspreadsheet-wp-he_IL.mo
+
+# For Arabic  
+msgfmt languages/phpspreadsheet-wp-ar.po -o languages/phpspreadsheet-wp-ar.mo
+```
+
+### Loading Translations
+The plugin automatically loads translations using:
+
+```php
+load_plugin_textdomain(
+    'phpspreadsheet-wp',
+    false,
+    dirname(plugin_basename(__FILE__)) . '/languages'
+);
+```
+
+### JavaScript Translations
+Admin JavaScript strings are localized via:
+
+```php
+wp_localize_script(
+    'phpspreadsheet-wp-admin',
+    'phpspreadsheet_wp_ajax',
+    array(
+        'strings' => array(
+            'installing' => __('Installing...', 'phpspreadsheet-wp'),
+            'success' => __('Installation successful!', 'phpspreadsheet-wp'),
+            // ... more strings
+        )
+    )
+);
+```
+
+## RTL Language Support
+
+### CSS
+The plugin includes RTL support in admin.css:
+
+```css
+/* RTL Support for Hebrew and Arabic */
+.rtl .phpspreadsheet-wp-admin {
+    direction: rtl;
+    text-align: right;
+}
+
+.rtl .phpspreadsheet-wp-modal-content {
+    direction: rtl;
+}
+
+.rtl .phpspreadsheet-wp-status {
+    flex-direction: row-reverse;
+}
+```
+
+### Testing RTL
+1. Set WordPress language to Hebrew or Arabic
+2. Check admin interface alignment
+3. Verify modal and popup positioning
+4. Test button and icon alignment
+
+## WordPress.org Translation
+
+### GlotPress Integration
+Once the plugin is submitted to WordPress.org:
+
+1. Visit https://translate.wordpress.org/projects/wp-plugins/phpspreadsheet-wp
+2. Select your language
+3. Translate strings directly in GlotPress
+4. Translations are automatically included in plugin updates
+
+### Translation Coordinators
+Each language team has coordinators who:
+- Review translation submissions
+- Maintain translation consistency
+- Coordinate with the community
+
+## Development Workflow
+
+### Adding New Strings
+When adding translatable strings to the code:
+
+1. Use WordPress translation functions:
+   ```php
+   __('String to translate', 'phpspreadsheet-wp')
+   _e('String to echo', 'phpspreadsheet-wp')
+   esc_html__('Safe HTML string', 'phpspreadsheet-wp')
+   ```
+
+2. Update POT file:
+   ```bash
+   wp i18n make-pot . languages/phpspreadsheet-wp.pot
+   ```
+
+3. Notify translators of new strings
+
+### Translation Memory
+Use translation memory tools to:
+- Maintain consistency across updates
+- Speed up translation process
+- Reuse existing translations
+
+## Quality Assurance
+
+### Translation Review Process
+1. **Initial Translation** - Volunteer translator
+2. **Peer Review** - Community review
+3. **Coordinator Approval** - Language team coordinator
+4. **Testing** - Functional testing in WordPress
+
+### Common Issues
+- **Context Missing** - Provide translator comments
+- **String Length** - Consider UI layout constraints
+- **Technical Terms** - Maintain consistency
+- **Pluralization** - Handle plural forms correctly
+
+## Contact Information
+
+### Translation Coordination
+- **GitHub Issues**: Report translation bugs
+- **WordPress.org Forums**: General translation questions
+- **Plugin Author**: team@example.com
+
+### Language Teams
+- **Hebrew Team**: Contact via WordPress.org
+- **Arabic Team**: Contact via WordPress.org
+- **New Languages**: Apply to become translator
+
+## Resources
+
+### WordPress Translation Handbook
+- [Translator Handbook](https://make.wordpress.org/polyglots/handbook/)
+- [Translation Style Guide](https://make.wordpress.org/polyglots/handbook/translating/style-guide/)
+- [GlotPress User Guide](https://make.wordpress.org/polyglots/handbook/tools/glotpress-translate-wordpress-org/)
+
+### Translation Tools
+- **Poedit**: https://poedit.net/
+- **GlotPress**: https://glotpress.blog/
+- **Loco Translate**: https://wordpress.org/plugins/loco-translate/
+
+### Community
+- **WordPress Polyglots**: https://make.wordpress.org/polyglots/
+- **Translation Slack**: https://wordpress.slack.com/
+- **Local Meetups**: WordPress translation events
+
+## Changelog
+
+### Version 1.2.0 (2025-05-28)
+- Added complete Hebrew translation
+- Added partial Arabic translation
+- Improved RTL language support
+- Enhanced JavaScript string localization
+
+### Version 1.1.0 (2025-05-15)
+- Created translation template (POT file)
+- Added translation infrastructure
+- Implemented WordPress i18n standards
+
+### Version 1.0.0 (2025-05-01)
+- Initial release (English only)
+
+## Future Plans
+
+### Planned Languages
+Priority languages for future translation:
+1. **Spanish (es_ES)** - Large WordPress community
+2. **French (fr_FR)** - WordPress origin country
+3. **German (de_DE)** - Strong European presence
+4. **Italian (it_IT)** - Growing community
+5. **Portuguese (pt_BR)** - Brazilian market
+6. **Russian (ru_RU)** - Eastern Europe
+7. **Chinese (zh_CN)** - Asian market
+8. **Japanese (ja)** - Technical community
+
+### Translation Automation
+- Integration with professional translation services
+- Automated translation memory updates
+- Continuous localization workflow
+
+## Contributing
+
+### How to Help
+1. **Translate** - Add missing translations
+2. **Review** - Check existing translations
+3. **Test** - Verify translations in WordPress
+4. **Document** - Improve translation guides
+
+### Getting Started
+1. Create WordPress.org account
+2. Join translation team for your language
+3. Read translation guidelines
+4. Start with small strings
+5. Get feedback from coordinators
+
+### Recognition
+Contributors are credited in:
+- Plugin documentation
+- WordPress.org translator profiles
+- Annual WordPress contributor lists
+- Plugin about page
+
+---
+
+*Thank you for helping make PhpSpreadsheet for WordPress accessible to users worldwide!*
+
+## License
+
+Translations are released under the same license as the plugin (MIT License).
+
+---
+
+**Last Updated**: May 28, 2025  
+**Document Version**: 1.2.0  
+**Plugin Version**: 1.2.0

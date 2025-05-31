@@ -1,0 +1,348 @@
+# File: languages/phpspreadsheet-wp-he_IL.po
+# Hebrew translation for PhpSpreadsheet for WordPress
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PhpSpreadsheet for WordPress 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/phpspreadsheet-wp\n"
+"POT-Creation-Date: 2025-05-28 12:00+0000\n"
+"PO-Revision-Date: 2025-05-28 12:30+0000\n"
+"Last-Translator: WordPress Team <team@example.com>\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WordPress\n"
+
+msgid "PhpSpreadsheet for WordPress requires PHP 7.4 or higher."
+msgstr "PhpSpreadsheet עבור WordPress דורש PHP 7.4 או גרסה חדשה יותר."
+
+msgid "PhpSpreadsheet Settings"
+msgstr "הגדרות PhpSpreadsheet"
+
+msgid "PhpSpreadsheet"
+msgstr "PhpSpreadsheet"
+
+msgid "PhpSpreadsheet Configuration"
+msgstr "תצורת PhpSpreadsheet"
+
+msgid "Auto-load Library"
+msgstr "טעינה אוטומטית של הספרייה"
+
+msgid "Installation Method"
+msgstr "שיטת התקנה"
+
+msgid "Configure PhpSpreadsheet library settings for WordPress."
+msgstr "הגדר את הגדרות ספריית PhpSpreadsheet עבור WordPress."
+
+msgid "Load PhpSpreadsheet automatically"
+msgstr "טען את PhpSpreadsheet אוטומטית"
+
+msgid "When enabled, PhpSpreadsheet will be loaded on every WordPress page load."
+msgstr "כאשר מופעל, PhpSpreadsheet ייטען בכל טעינת עמוד של WordPress."
+
+msgid "Automatic (Try Composer, then Precompiled)"
+msgstr "אוטומטי (נסה Composer, לאחר מכן מקומפל מראש)"
+
+msgid "Composer Only"
+msgstr "Composer בלבד"
+
+msgid "Precompiled Only"
+msgstr "מקומפל מראש בלבד"
+
+msgid "Precompiled Download Only"
+msgstr "הורדה מקומפלת מראש בלבד"
+
+msgid "Choose how PhpSpreadsheet should be installed."
+msgstr "בחר כיצד להתקין את PhpSpreadsheet."
+
+msgid "Choose how PhpSpreadsheet should be installed. Automatic is recommended for most users."
+msgstr "בחר כיצד להתקין את PhpSpreadsheet. אוטומטי מומלץ לרוב המשתמשים."
+
+msgid "PhpSpreadsheet for WordPress activated successfully!"
+msgstr "PhpSpreadsheet עבור WordPress הופעל בהצלחה!"
+
+msgid "PhpSpreadsheet for WordPress activated but library installation failed. Please check settings."
+msgstr "PhpSpreadsheet עבור WordPress הופעל אך התקנת הספרייה נכשלה. אנא בדוק את ההגדרות."
+
+msgid "PhpSpreadsheet library is not installed."
+msgstr "ספריית PhpSpreadsheet אינה מותקנת."
+
+msgid "Install now"
+msgstr "התקן עכשיו"
+
+#, php-format
+msgid "PhpSpreadsheet for WordPress requires PHP %s or higher. You are running PHP %s."
+msgstr "PhpSpreadsheet עבור WordPress דורש PHP %s או גרסה חדשה יותר. אתה מריץ PHP %s."
+
+msgid "Plugin Activation Error"
+msgstr "שגיאת הפעלת תוסף"
+
+#, php-format
+msgid "PhpSpreadsheet for WordPress requires the following PHP functions: %s"
+msgstr "PhpSpreadsheet עבור WordPress דורש את פונקציות PHP הבאות: %s"
+
+msgid "Security check failed"
+msgstr "בדיקת אבטחה נכשלה"
+
+msgid "Insufficient permissions"
+msgstr "אין הרשאות מספקות"
+
+msgid "Installation completed successfully"
+msgstr "ההתקנה הושלמה בהצלחה"
+
+msgid "Installation completed but library failed to load"
+msgstr "ההתקנה הושלמה אך הספרייה נכשלה להיטען"
+
+msgid "Installation failed. Please check logs for details."
+msgstr "ההתקנה נכשלה. אנא בדוק את היומנים לפרטים."
+
+msgid "Status check failed"
+msgstr "בדיקת סטטוס נכשלה"
+
+msgid "Logs cleared successfully"
+msgstr "היומנים נוקו בהצלחה"
+
+msgid "Integrate PhpSpreadsheet library into WordPress for Excel file generation with seamless compatibility."
+msgstr "שלב ספריית PhpSpreadsheet ב-WordPress ליצירת קבצי Excel עם תאימות חלקה."
+
+msgid "Library Status"
+msgstr "סטטוס הספרייה"
+
+msgid "PhpSpreadsheet is loaded and ready"
+msgstr "PhpSpreadsheet נטען ומוכן לשימוש"
+
+#, php-format
+msgid "Version: %s"
+msgstr "גרסה: %s"
+
+msgid "PhpSpreadsheet is not loaded"
+msgstr "PhpSpreadsheet לא נטען"
+
+msgid "Library needs to be installed"
+msgstr "יש להתקין את הספרייה"
+
+msgid "Install PhpSpreadsheet"
+msgstr "התקן PhpSpreadsheet"
+
+msgid "Check Status"
+msgstr "בדוק סטטוס"
+
+msgid "View Logs"
+msgstr "הצג יומנים"
+
+msgid "Installation Details"
+msgstr "פרטי התקנה"
+
+msgid "Vendor Directory"
+msgstr "תיקיית Vendor"
+
+msgid "Exists"
+msgstr "קיים"
+
+msgid "Missing"
+msgstr "חסר"
+
+msgid "Autoloader"
+msgstr "טעינה אוטומטית"
+
+msgid "Available"
+msgstr "זמין"
+
+msgid "PhpSpreadsheet Library"
+msgstr "ספריית PhpSpreadsheet"
+
+msgid "Installed"
+msgstr "מותקן"
+
+msgid "Not Installed"
+msgstr "לא מותקן"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Load PhpSpreadsheet automatically on every page"
+msgstr "טען PhpSpreadsheet אוטומטית בכל עמוד"
+
+msgid "When enabled, PhpSpreadsheet will be loaded on every WordPress page load. Disable if you only need it for specific functionality."
+msgstr "כאשר מופעל, PhpSpreadsheet ייטען בכל טעינת עמוד WordPress. בטל אם אתה צריך את זה רק לפונקציונליות ספציפית."
+
+msgid "Usage Information"
+msgstr "מידע על שימוש"
+
+msgid "For Developers"
+msgstr "למפתחים"
+
+msgid "Once installed, PhpSpreadsheet is automatically available throughout your WordPress installation:"
+msgstr "לאחר ההתקנה, PhpSpreadsheet זמין אוטומטית בכל התקנת WordPress שלך:"
+
+msgid "Copy Code"
+msgstr "העתק קוד"
+
+msgid "Helper Functions"
+msgstr "פונקציות עזר"
+
+msgid "The plugin provides convenient helper functions:"
+msgstr "התוסף מספק פונקציות עזר נוחות:"
+
+msgid "Check if library is loaded"
+msgstr "בדוק אם הספרייה נטענה"
+
+msgid "Get library version"
+msgstr "קבל גרסת הספרייה"
+
+msgid "Force load library"
+msgstr "אלץ טעינת הספרייה"
+
+msgid "Installation Paths"
+msgstr "נתיבי התקנה"
+
+msgid "The plugin checks these paths for PhpSpreadsheet:"
+msgstr "התוסף בודק את הנתיבים הללו עבור PhpSpreadsheet:"
+
+msgid "Found"
+msgstr "נמצא"
+
+msgid "Not found"
+msgstr "לא נמצא"
+
+msgid "System Information"
+msgstr "מידע מערכת"
+
+msgid "Plugin Version"
+msgstr "גרסת התוסף"
+
+msgid "WordPress Version"
+msgstr "גרסת WordPress"
+
+msgid "PHP Version"
+msgstr "גרסת PHP"
+
+msgid "Memory Limit"
+msgstr "מגבלת זיכרון"
+
+msgid "Max Execution Time"
+msgstr "זמן ביצוע מקסימלי"
+
+msgid "seconds"
+msgstr "שניות"
+
+msgid "Composer Available"
+msgstr "Composer זמין"
+
+msgid "Yes"
+msgstr "כן"
+
+msgid "No"
+msgstr "לא"
+
+msgid "ZIP Extension"
+msgstr "הרחבת ZIP"
+
+msgid "cURL Extension"
+msgstr "הרחבת cURL"
+
+msgid "Loaded"
+msgstr "נטען"
+
+msgid "Not Loaded"
+msgstr "לא נטען"
+
+msgid "Installation Logs"
+msgstr "יומני התקנה"
+
+msgid "Loading logs..."
+msgstr "טוען יומנים..."
+
+msgid "Refresh"
+msgstr "רענן"
+
+msgid "Clear Logs"
+msgstr "נקה יומנים"
+
+msgid "Installing..."
+msgstr "מתקין..."
+
+msgid "Installing PhpSpreadsheet library..."
+msgstr "מתקין ספריית PhpSpreadsheet..."
+
+msgid "Retry Installation"
+msgstr "נסה התקנה שוב"
+
+msgid "Installation failed due to network error"
+msgstr "ההתקנה נכשלה עקב שגיאת רשת"
+
+msgid "Checking..."
+msgstr "בודק..."
+
+msgid "Status check failed due to network error"
+msgstr "בדיקת הסטטוס נכשלה עקב שגיאת רשת"
+
+msgid "Are you sure you want to clear all logs?"
+msgstr "האם אתה בטוח שברצונך לנקות את כל היומנים?"
+
+msgid "Logs cleared successfully."
+msgstr "היומנים נוקו בהצלחה."
+
+msgid "No logs available."
+msgstr "אין יומנים זמינים."
+
+msgid "Failed to load logs."
+msgstr "נכשל בטעינת היומנים."
+
+msgid "Failed to load logs due to network error."
+msgstr "נכשל בטעינת היומנים עקב שגיאת רשת."
+
+msgid "Code copied to clipboard!"
+msgstr "הקוד הועתק ללוח!"
+
+# JavaScript strings for admin interface
+msgid "loaded"
+msgstr "נטען"
+
+msgid "not_loaded"
+msgstr "לא נטען"
+
+msgid "warning"
+msgstr "אזהרה"
+
+msgid "installing_message"
+msgstr "מתקין ספריית PhpSpreadsheet..."
+
+msgid "network_error"
+msgstr "שגיאת רשת"
+
+msgid "timeout_error"
+msgstr "פג זמן ההתקנה. אנא נסה שוב."
+
+msgid "status_check_failed"
+msgstr "בדיקת סטטוס נכשלה"
+
+msgid "confirm_clear_logs"
+msgstr "האם אתה בטוח שברצונך לנקות את כל היומנים?"
+
+msgid "logs_cleared"
+msgstr "היומנים נוקו בהצלחה"
+
+msgid "loading_logs"
+msgstr "טוען יומנים..."
+
+msgid "no_logs"
+msgstr "אין יומנים זמינים"
+
+msgid "load_logs_failed"
+msgstr "נכשל בטעינת היומנים"
+
+msgid "copy_failed"
+msgstr "נכשל בהעתקת הקוד"
+
+msgid "copied"
+msgstr "הועתק!"
+
+msgid "retry"
+msgstr "נסה שוב"
+
+msgid "check_status"
+msgstr "בדוק סטטוס"

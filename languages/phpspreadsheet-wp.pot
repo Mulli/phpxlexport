@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+    #
+    #, fuzzy
+    msgid ""
+    msgstr ""
+    "Project-Id-Version: PhpSpreadsheet for WordPress 1.2.0\n"
+    "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/phpspreadsheet-wp\n"
+    "POT-Creation-Date: 2025-05-28 12:00+0000\n"
+    "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+    "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+            "Language: \n"
+            "MIME-Version: 1.0\n"
+            "Content-Type: text/plain; charset=UTF-8\n"
+            "Content-Transfer-Encoding: 8bit\n"
+
+            msgid "PhpSpreadsheet Settings"
+            msgstr ""
+
+            msgid "PhpSpreadsheet Configuration"
+            msgstr ""
+
+            msgid "Auto-load Library"
+            msgstr ""
+
+            msgid "Load PhpSpreadsheet automatically"
+            msgstr ""
+
+            msgid "Installing..."
+            msgstr ""
+
+            msgid "Installation successful!"
+            msgstr ""
+
+            msgid "Installation failed"
+            msgstr ""
+
+            msgid "Please reload the page."
+            msgstr ""
+
+            msgid "PhpSpreadsheet library is not installed."
+            msgstr ""
+
+            msgid "Install PhpSpreadsheet"
+            msgstr ""
+
+            msgid "Library Status"
+            msgstr ""
+
+            msgid "Not Loaded"
+            msgstr ""
+
+            msgid "Loaded"
+            msgstr ""
+
+            msgid "Version: %s"
+            msgstr ""
+
+            msgid "Installation Paths"
+            msgstr ""
+
+            msgid "Usage Information"
+            msgstr ""
+
+            msgid "For Developers"
+            msgstr ""
+
+            msgid "Check if available"
+            msgstr ""
+
+            msgid "Or use the plugin helper"
+            msgstr ""
+
+            msgid "Library is ready to use"
+            msgstr ""
+
+            msgid "Status check failed"
+            msgstr ""
+
+            msgid "Checking..."
+            msgstr ""
+
+            msgid "Check Status"
+            msgstr ""
+
+            msgid "Retry Installation"
+            msgstr ""

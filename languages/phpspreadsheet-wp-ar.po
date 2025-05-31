@@ -1,0 +1,334 @@
+# File: languages/phpspreadsheet-wp-ar.po
+# Arabic translation for PhpSpreadsheet for WordPress
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PhpSpreadsheet for WordPress 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/phpspreadsheet-wp\n"
+"POT-Creation-Date: 2025-05-28 12:00+0000\n"
+"PO-Revision-Date: 2025-05-28 12:30+0000\n"
+"Last-Translator: WordPress Team <team@example.com>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: WordPress\n"
+
+msgid "PhpSpreadsheet for WordPress requires PHP 7.4 or higher."
+msgstr "PhpSpreadsheet لـ WordPress يتطلب PHP 7.4 أو أحدث."
+
+msgid "PhpSpreadsheet Settings"
+msgstr "إعدادات PhpSpreadsheet"
+
+msgid "PhpSpreadsheet"
+msgstr "PhpSpreadsheet"
+
+msgid "PhpSpreadsheet Configuration"
+msgstr "تكوين PhpSpreadsheet"
+
+msgid "Auto-load Library"
+msgstr "تحميل المكتبة تلقائياً"
+
+msgid "Installation Method"
+msgstr "طريقة التثبيت"
+
+msgid "Configure PhpSpreadsheet library settings for WordPress."
+msgstr "تكوين إعدادات مكتبة PhpSpreadsheet لـ WordPress."
+
+msgid "Load PhpSpreadsheet automatically"
+msgstr "تحميل PhpSpreadsheet تلقائياً"
+
+msgid "When enabled, PhpSpreadsheet will be loaded on every WordPress page load."
+msgstr "عند التفعيل، سيتم تحميل PhpSpreadsheet في كل تحميل صفحة WordPress."
+
+msgid "Automatic (Try Composer, then Precompiled)"
+msgstr "تلقائي (جرب Composer، ثم المجمع مسبقاً)"
+
+msgid "Composer Only"
+msgstr "Composer فقط"
+
+msgid "Precompiled Only"
+msgstr "المجمع مسبقاً فقط"
+
+msgid "Precompiled Download Only"
+msgstr "تحميل مجمع مسبقاً فقط"
+
+msgid "Choose how PhpSpreadsheet should be installed."
+msgstr "اختر كيفية تثبيت PhpSpreadsheet."
+
+msgid "Choose how PhpSpreadsheet should be installed. Automatic is recommended for most users."
+msgstr "اختر كيفية تثبيت PhpSpreadsheet. التلقائي موصى به لمعظم المستخدمين."
+
+msgid "PhpSpreadsheet for WordPress activated successfully!"
+msgstr "تم تفعيل PhpSpreadsheet لـ WordPress بنجاح!"
+
+msgid "PhpSpreadsheet for WordPress activated but library installation failed. Please check settings."
+msgstr "تم تفعيل PhpSpreadsheet لـ WordPress لكن فشل تثبيت المكتبة. يرجى فحص الإعدادات."
+
+msgid "PhpSpreadsheet library is not installed."
+msgstr "مكتبة PhpSpreadsheet غير مثبتة."
+
+msgid "Install now"
+msgstr "ثبت الآن"
+
+#, php-format
+msgid "PhpSpreadsheet for WordPress requires PHP %s or higher. You are running PHP %s."
+msgstr "PhpSpreadsheet لـ WordPress يتطلب PHP %s أو أحدث. أنت تستخدم PHP %s."
+
+msgid "Plugin Activation Error"
+msgstr "خطأ في تفعيل الإضافة"
+
+#, php-format
+msgid "PhpSpreadsheet for WordPress requires the following PHP functions: %s"
+msgstr "PhpSpreadsheet لـ WordPress يتطلب دوال PHP التالية: %s"
+
+msgid "Security check failed"
+msgstr "فشل في فحص الأمان"
+
+msgid "Insufficient permissions"
+msgstr "صلاحيات غير كافية"
+
+msgid "Installation completed successfully"
+msgstr "تم إكمال التثبيت بنجاح"
+
+msgid "Installation completed but library failed to load"
+msgstr "تم إكمال التثبيت لكن فشل تحميل المكتبة"
+
+msgid "Installation failed. Please check logs for details."
+msgstr "فشل التثبيت. يرجى فحص السجلات للتفاصيل."
+
+msgid "Status check failed"
+msgstr "فشل فحص الحالة"
+
+msgid "Logs cleared successfully"
+msgstr "تم مسح السجلات بنجاح"
+
+msgid "Integrate PhpSpreadsheet library into WordPress for Excel file generation with seamless compatibility."
+msgstr "دمج مكتبة PhpSpreadsheet في WordPress لإنشاء ملفات Excel مع توافق سلس."
+
+msgid "Library Status"
+msgstr "حالة المكتبة"
+
+msgid "PhpSpreadsheet is loaded and ready"
+msgstr "PhpSpreadsheet محمل وجاهز"
+
+#, php-format
+msgid "Version: %s"
+msgstr "الإصدار: %s"
+
+msgid "PhpSpreadsheet is not loaded"
+msgstr "PhpSpreadsheet غير محمل"
+
+msgid "Library needs to be installed"
+msgstr "المكتبة تحتاج للتثبيت"
+
+msgid "Install PhpSpreadsheet"
+msgstr "ثبت PhpSpreadsheet"
+
+msgid "Check Status"
+msgstr "فحص الحالة"
+
+msgid "View Logs"
+msgstr "عرض السجلات"
+
+msgid "Installation Details"
+msgstr "تفاصيل التثبيت"
+
+msgid "Vendor Directory"
+msgstr "مجلد Vendor"
+
+msgid "Exists"
+msgstr "موجود"
+
+msgid "Missing"
+msgstr "مفقود"
+
+msgid "Autoloader"
+msgstr "المحمل التلقائي"
+
+msgid "Available"
+msgstr "متوفر"
+
+msgid "PhpSpreadsheet Library"
+msgstr "مكتبة PhpSpreadsheet"
+
+msgid "Installed"
+msgstr "مثبت"
+
+msgid "Not Installed"
+msgstr "غير مثبت"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "Load PhpSpreadsheet automatically on every page"
+msgstr "تحميل PhpSpreadsheet تلقائياً في كل صفحة"
+
+msgid "When enabled, PhpSpreadsheet will be loaded on every WordPress page load. Disable if you only need it for specific functionality."
+msgstr "عند التفعيل، سيتم تحميل PhpSpreadsheet في كل تحميل صفحة WordPress. قم بالإلغاء إذا كنت تحتاجه فقط لوظائف محددة."
+
+msgid "Usage Information"
+msgstr "معلومات الاستخدام"
+
+msgid "For Developers"
+msgstr "للمطورين"
+
+msgid "Once installed, PhpSpreadsheet is automatically available throughout your WordPress installation:"
+msgstr "بمجرد التثبيت، يصبح PhpSpreadsheet متاحاً تلقائياً في جميع أنحاء تثبيت WordPress الخاص بك:"
+
+msgid "Copy Code"
+msgstr "نسخ الكود"
+
+msgid "Helper Functions"
+msgstr "دوال المساعدة"
+
+msgid "The plugin provides convenient helper functions:"
+msgstr "تقدم الإضافة دوال مساعدة مريحة:"
+
+msgid "Check if library is loaded"
+msgstr "فحص ما إذا كانت المكتبة محملة"
+
+msgid "Get library version"
+msgstr "الحصول على إصدار المكتبة"
+
+msgid "Force load library"
+msgstr "إجبار تحميل المكتبة"
+
+msgid "Installation Paths"
+msgstr "مسارات التثبيت"
+
+msgid "The plugin checks these paths for PhpSpreadsheet:"
+msgstr "تفحص الإضافة هذه المسارات لـ PhpSpreadsheet:"
+
+msgid "Found"
+msgstr "موجود"
+
+msgid "Not found"
+msgstr "غير موجود"
+
+msgid "System Information"
+msgstr "معلومات النظام"
+
+msgid "Plugin Version"
+msgstr "إصدار الإضافة"
+
+msgid "WordPress Version"
+msgstr "إصدار WordPress"
+
+msgid "PHP Version"
+msgstr "إصدار PHP"
+
+msgid "Memory Limit"
+msgstr "حد الذاكرة"
+
+msgid "Max Execution Time"
+msgstr "الحد الأقصى لوقت التنفيذ"
+
+msgid "seconds"
+msgstr "ثانية"
+
+msgid "Composer Available"
+msgstr "Composer متوفر"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "No"
+msgstr "لا"
+
+msgid "ZIP Extension"
+msgstr "امتداد ZIP"
+
+msgid "cURL Extension"
+msgstr "امتداد cURL"
+
+msgid "Loaded"
+msgstr "محمل"
+
+msgid "Not Loaded"
+msgstr "غير محمل"
+
+msgid "Installation Logs"
+msgstr "سجلات التثبيت"
+
+msgid "Loading logs..."
+msgstr "تحميل السجلات..."
+
+msgid "Refresh"
+msgstr "تحديث"
+
+msgid "Clear Logs"
+msgstr "مسح السجلات"
+
+msgid "Installing..."
+msgstr "جاري التثبيت..."
+
+msgid "Installing PhpSpreadsheet library..."
+msgstr "جاري تثبيت مكتبة PhpSpreadsheet..."
+
+msgid "Retry Installation"
+msgstr "إعادة المحاولة"
+
+msgid "Installation failed due to network error"
+msgstr "فشل التثبيت بسبب خطأ في الشبكة"
+
+msgid "Checking..."
+msgstr "جاري الفحص..."
+
+msgid "Status check failed due to network error"
+msgstr "فشل فحص الحالة بسبب خطأ في الشبكة"
+
+msgid "Are you sure you want to clear all logs?"
+msgstr "هل أنت متأكد من أنك تريد مسح جميع السجلات؟"
+
+msgid "Logs cleared successfully."
+msgstr "تم مسح السجلات بنجاح."
+
+msgid "No logs available."
+msgstr "لا توجد سجلات متاحة."
+
+msgid "Failed to load logs."
+msgstr "فشل في تحميل السجلات."
+
+msgid "Failed to load logs due to network error."
+msgstr "فشل في تحميل السجلات بسبب خطأ في الشبكة."
+
+msgid "Code copied to clipboard!"
+msgstr "تم نسخ الكود إلى الحافظة!"
+
+# JavaScript strings for admin interface (partial translation)
+msgid "loaded"
+msgstr "محمل"
+
+msgid "not_loaded"
+msgstr "غير محمل"
+
+msgid "warning"
+msgstr "تحذير"
+
+msgid "network_error"
+msgstr "خطأ في الشبكة"
+
+msgid "timeout_error"
+msgstr "انتهت مهلة التثبيت. يرجى المحاولة مرة أخرى."
+
+msgid "copied"
+msgstr "تم النسخ!"
+
+msgid "retry"
+msgstr "إعادة المحاولة"
+
+msgid "check_status"
+msgstr "فحص الحالة"
+
+# Untranslated strings (need translation)
+# msgid "installing_message"
+# msgid "status_check_failed"
+# msgid "confirm_clear_logs"
+# msgid "logs_cleared"
+# msgid "loading_logs"
+# msgid "no_logs"
+# msgid "load_logs_failed"
+# msgid "copy_failed"
